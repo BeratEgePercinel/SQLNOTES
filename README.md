@@ -6,3 +6,5 @@ HAVING	Used instead of WHERE with aggregate functions
 PROCEDURE	A stored procedure
 ROWNUM	Specifies the number of records to return in the result set
 UNION	Combines the result set of two or more SELECT statements (only distinct values)
+
+Primary Key = Unique + NOT NULL
